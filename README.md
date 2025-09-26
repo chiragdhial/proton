@@ -2,7 +2,8 @@
 # this is the change done by chirag dhial
 # steps taken in this change - cloned repository in the visual studio code, and i am
 # editing the atom branch, committing it in the process and then versioning it.
-- JDK 17 
+# 2nd tier changes are done into this repository to practice versioning.
+- JDK 21
 - Maven 3.9 
 - MySQL 8
 
